@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Finder</string>
+    <string name="app_description">Photo Finder is a download fixer and file renamer for photos and videos saved without a proper name or extension. Fix Google Photos downloads, rename junk filenames, and share from Google Photos with the real display name.</string>
+    <string name="share_target_label">Save with Photo Finder</string>
+</resources>
